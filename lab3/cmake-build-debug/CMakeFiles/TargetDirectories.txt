@@ -1,0 +1,3 @@
+/Users/Elizaveta1/Desktop/fall '22/ЧМ fall'22/Лаба 3/lab3/cmake-build-debug/CMakeFiles/lab3.dir
+/Users/Elizaveta1/Desktop/fall '22/ЧМ fall'22/Лаба 3/lab3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/Elizaveta1/Desktop/fall '22/ЧМ fall'22/Лаба 3/lab3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
